@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759321898211",
+    "firebase_url": "https://learn-html-a0d08.firebaseio.com",
+    "project_id": "learn-html-a0d08",
+    "storage_bucket": "learn-html-a0d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759321898211:android:629e2e1eda586845",
+        "android_client_info": {
+          "package_name": "com.bigtooth.apps.guide.html"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759321898211-0cs93ug5lvt5d1d2kgpc4n42fsu9v1o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigtooth.apps.guide.html",
+            "certificate_hash": "53DEEADBFA911919F308D5BC79F11ADA55D238C6"
+          }
+        },
+        {
+          "client_id": "759321898211-i6salnpc3egrdjmrdu1oku2e4idsd52t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2s7YHF3Pn7zQTtXzL3DU_h7EKCQiCrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759321898211-i6salnpc3egrdjmrdu1oku2e4idsd52t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

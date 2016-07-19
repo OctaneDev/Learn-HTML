@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.0_3846ed90447b55e907f973e67309cfbff216a2c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cb4d1c3418618c0b215a2f825cb99c80ef6dcfe1">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08efda7bac67243a1f5b8237d3ac8d17f245ea1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_fd6b7e1b36f41019b0e75a7f1ca93ab8934516dd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.0_7deda62083a251c56bf30cc1581b115175d08e2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.0_c063af5105722843c2d8c326d5e67417f3a8a2a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_0c86578fdeaedfe1b9c6d5f8d96b429b593ab8e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c35bda48cae4f258f51930bcdc95139255566a33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_e60f19b38e73b8a4d19af60fa4c8c6889468549f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_ca0c99c95907fc95ee39d4def86ce7dafcd6cd69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_7a486973590aa69c63f80f2a0deedfb9c598fe52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.0_dfa55703852f4d335263d6c2b9a820c000695e90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_b998920df1ded42c7eaf343084ad7a69df9bb7c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_2d379f140a92d64abb861b888b7cbc5c4744d5ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_b11d94db04688b9fb9deba6ab5ba994f47809b5d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_a8356ca25393b5433536e549796574201c748ed6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b070244f43285ecefc9b335c045c91b6562e463d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="82e8f8e29c6155418063c1f4ce1626fab9c42bfd">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b99c2051434ab87859039019f7b3739d71c4f393\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_c9bcee35c4b03105670cf4a6441511757d61aa21\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_74e0981f03056c550dfeed77a48357b4f85af1e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_11349672a7ab1a1e5756cac80a88d9e271936475\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\megal\AndroidStudioProjects\HTML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_227890e42ed08e0c7334e7a6e31f5504c495c3d9\classes.dex" />
+    </item>
+
+</items>

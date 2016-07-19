@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- App Strings -->
+
+	<string name="app_name">Learn HTML</string>
+	<string name="banner_ad_unit_id">ca-app-pub-5164171001589422/4425382992</string>
+
+	<!-- Main Activity Strings -->
+
+	<string name="hello">What would you like to do?</string>
+	<string name="basics">Learn the Basics</string>
+	<string name="what">Learn What HTML Is</string>
+	<string name="difficult">Learn the Harder Stuff</string>
+	<string name="styling">Styling HTML With CSS</string>
+	<string name="tools">Helpful Tools</string>
+	<string name="title_activity_tools">Tools</string>
+
+	<!-- Basics Strings -->
+
+	<string name="htmlfile">When starting an HTML document, the starting page should be named \"index.html\". All files should have the extension .html.</string>
+	<string name="comment">Anytime you see /* */ with text in it, that\'s a comment telling you what needs to be there. You don\'t actually need to use those.</string>
+	<string name="basic">The first thing in an HTML document should be:</string>
+	<string name="doctype">&lt;!DOCTYPE html&gt;</string>
+	<string name="firsttags">After that, add the html tag on the next line as shown below.</string>
+	<string name="htmltag">&lt;html&gt; &lt;/html&gt;</string>
+	<string name="nexttags">After the opening HTML tag, you should put the closing one on the bottom line and it should stay below every other tag. Anything below that tag won\'t be used. The first thing in between the HTML tags should be the head tag.</string>
+	<string name="headtag">&lt;head&gt; &lt;/head&gt;</string>
+	<string name="headtags">In between the head tags, you should have:</string>
+	<string name="utf">&lt;meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/&gt;</string>
+	<string name="title">&lt;title&gt;Hello World&lt;/title&gt;</string>
+	<string name="titleexp">The title tag is for the name of your file when it shows up in your browser. For example, when you\'re in your internet browser, the text in the tab indicator is the title of the webpage you\'re on.</string>
+	<string name="body">After the closing head tag, you should put the body tags. Inside of these is where your User Interface will be.</string>
+	<string name="bodytags">&lt;body&gt; &lt;/body&gt;</string>
+	<string name="othertags">Inside the body is where you put all other tags to create your user interface. For headings, you can use h1 - h6, h1 being largest. You can also use the p tag for paragraphs. For these tags, you put the text you want to show up inside of the tags as shown below.</string>
+	<string name="ex">&lt;h1&gt;Hello World!&lt;/h1&gt;</string>
+	<string name="othercont">You can also give an item an ID. You would assign it as shown below.</string>
+	<string name="id">&lt;h1 id=\"hello\"&gt;Hello World!&lt;/h1&gt;</string>
+	<string name="othercont1">Some tags, such as the img tag for pictures, are a little different.</string>
+	<string name="imgtag">&lt;img src=\"pic.png\" /&gt;</string>
+	<string name="othercont2">That is an example of the image tag. When used like that, it uses the picture full size and full resolution. It doesn\'t size it down. To do that, you need to add width and height like in the example below.</string>
+	<string name="imgwh">&lt;img src=\"pic.png\" width=\"1280\" height=\"720\" /&gt;</string>
+	<string name="example">So, if you were to make an HTML document now, it should look similar to this:</string>
+	<string name="htmlopen">&lt;html&gt;</string>
+	<string name="headopen">&lt;head&gt;</string>
+	<string name="headclose">&lt;/head&gt;</string>
+	<string name="bodyopen">&lt;body&gt;</string>
+	<string name="bodyclose">&lt;/body&gt;</string>
+	<string name="htmlclose">&lt;/html&gt;</string>
+	<string name="bi">Something you can do to change the looks of text such as a heading (h1-h6) or paragraph (p) is italicize or make bold. This would be acomplished by:</string>
+	<string name="b">&lt;p&gt;&lt;b&gt;Bold Paragraph&lt;/b&gt;&lt;/p&gt;</string>
+	<string name="i">&lt;p&gt;&lt;i&gt;Italicized Paragraph&lt;/i&gt;&lt;/p&gt;</string>
+	<string name="hyperlink">A hyperlink can be shown with just text, a button, a picture, or pretty much anything.</string>
+	<string name="a">&lt;a href=\"page.html\"&gt;Hyperlink&lt;/a&gt;</string>
+	<string name="newline">To go to a new line, use the line break tag.</string>
+	<string name="br">&lt;br /&gt;</string>
+	<string name="finishbasic">Congrats! You\'ve successfully learned the basics of HTML. You can how move on to the harder stuff.</string>
+
+	<!-- What Is HTML Strings -->
+
+	<string name="whatis">HTML is a markup language, mainly for websites. When you pair HTML with CSS and/or Javascript, you can make almost anything that works on just about all platforms. CSS is its own language for style. Javascript is also its own language, but can be used for almost anything! It\'s compatible with (almost) all platforms! When using HTML for a web app, you can usually also enable plug-ins like Javascript, sometimes even Adobe Flash. Web apps are compatible with Android, iOS, Windows, Windows Phone. Apache Cordova is used for making web apps on Android and sometimes iOS. It\'s (mostly) free to use, and pretty easy to use. In HTML, there are "tags". Those are what make everything work together. They use &lt; &gt; for the open tags and &lt;/ &gt; for close tags.</string>
+
+	<!-- Difficult Strings -->
+
+	<string name="script">Adding Javascript to HTML widens the horizon for what you can do. You can use it to make games, user interactive, and much more. There are two ways to add it to your file. You can link it to your file or have it right inside the file. They should both be placed in the head tags.</string>
+	<string name="jslink">&lt;script src=\"path/to/js/file.js\"/&gt;</string>
+	<string name="jstag">&lt;script&gt; /*Script*/ &lt;/script&gt;</string>
+	<string name="learnjs">If you would like to learn Javascript, I recommend you check out W3 Schools.</string>
+	<string name="background">You can add a background to your page with a picture. You should use an image that\'s got dimensions greater 1280 by 720.</string>
+	<string name="picture">&lt;body background=\"path/to/image/background.png\" &gt; &lt;/body&gt;</string>
+	<string name="backgroundcolor">You can also use an RGB color code for your page\'s background.</string>
+	<string name="color">&lt;body style=\"background-color:#ff0000;\" &gt; &lt;/body&gt;</string>
+	<string name="font">HTML has a font tag built in that works pretty well. There are a couple ways of using this tag. The first you put at the top of the page and it changes the font for the rest of the text. The second you wrap around the text you want to change.</string>
+	<string name="fontag">&lt;font face=\"arial\" size=\"30px\" /&gt;</string>
+	<string name="fonttag">&lt;font face=\"arial\" size=\"30px\" &gt; &lt;/font&gt;</string>
+	<string name="divider">The div, or divider, tag seperates whats inside of it from the rest of the page. It can also be used for a drop-down menu.</string>
+	<string name="div">&lt;div&gt; &lt;/div&gt;</string>
+	<string name="table">You can add tables into HTML with as many rows and columns as you please.</string>
+	<string name="tablecode1">&lt;table&gt;</string>
+	<string name="tablecode2">&lt;tr&gt;</string>
+	<string name="tablecode3">&lt;td&gt;Column 1, Row 1&lt;/td&gt;</string>
+	<string name="tablecode4">&lt;td&gt;Column 2, Row 1&lt;/td&gt;</string>
+	<string name="tablecode5">&lt;/tr&gt;</string>
+	<string name="tablecode6">&lt;tr&gt;</string>
+	<string name="tablecode7">&lt;td&gt;Column 1, Row 2&lt;/td&gt;</string>
+	<string name="tablecode8">&lt;td&gt;Column 2, Row 2&lt;/td&gt;</string>
+	<string name="tablecode9">&lt;/tr&gt;</string>
+	<string name="tablecode10">&lt;/table&gt;</string>
+	<string name="iframe">An IFrame is something that\'s used to show a page within another page.</string>
+	<string name="iframetag">&lt;iframe src=\"link/to/page/file.html\" width=\"1280\" height=\"720\" /&gt;</string>
+	<string name="audio">If you want to play an audio file on your page, you can use the following code. It comes with play and pause controls built in.</string>
+	<string name="audiotag1">&lt;audio controls&gt;</string>
+	<string name="audiotag2">&lt;source src=\"path/to/audio/music.mp3\" type=\"audio/mp3\" /&gt;</string>
+	<string name="audiotag3">&lt;/audio&gt;</string>
+	<string name="video">You can also play videos from HTML. It also has its own controls built in.</string>
+	<string name="videotag1">&lt;video width=\"1280\" height=\"720\" controls&gt;</string>
+	<string name="videotag2">&lt;source src=\"path/to/video/movie.mp4\" type=\"video/mp4\" /&gt;</string>
+	<string name="videotag3">&lt;/video&gt;</string>
+	<string name="youtube">If you want to play a video straight from YouTube, you can do that too. The best way to do this is just using an embed link in an iframe.</string>
+	<string name="youtube1">&lt;iframe width=\"1280\" height=\"720\" src=\"http://youtube.com/embed/blahblah\" /&gt;</string>
+	<string name="quotes">If you want to add a quote, or really anything with quotation maks around it, put in q tags.</string>
+	<string name="q">&lt;q&gt; some text &lt;/q&gt;</string>
+	<string name="blockquotes">If you want to add a long quote, perhaps from a website, you should use block quotes.</string>
+	<string name="blockquote">&lt;blockquote cite=\"http://example.com/page.html\" &gt; some text &lt;/blockquote&gt;</string>
+	<string name="finishadvance">Congrats! You\'ve successfully learned HTML! The only think left to do is learn CSS to really make your page pop.</string>
+
+	<!-- Styling Strings -->
+
+	<string name="css">In HTML, you can use CSS to style your website. CSS stands for cascading style sheet and it does exactly what its name implies. It can change the look of any element in HTML, and for styling one specific piece, you can use that items id (see HTML basics for using an id). It can\'t control anything other than style, as you may have already figured out.</string>
+	<string name="cssexp">CSS is its own totally unique language. It uses curly braces (e.g. { and }), colons, semicolons, and a few more characters. To use it, you can link it to all of a certain tag, or, if you remember those ids, you can link it to specific items.</string>
+	<string name="alltags">body { /*changes*/ }</string>
+	<string name="onlyid">#id { /*changes*/ }</string>
+	<string name="idexp">In the second example, where \"id\" is, you would have the item\'s id.</string>
+	<string name="csshtml">A lot of CSS\' changes can be achieved with just HTML. For example, changing fonts, adding some backgrounds, or adjusting alignment. For text items, you can use the following between curly braces.</string>
+	<string name="text">
+		"text-align:/*use left, center, or right*/;"\n
+		"text-size:/*number between 1 and 100 followed by dp*/;"\n
+		"font-family:/*you\'ll have to look these up*/;"\n
+		"color:/*rgb value*/;"\n
+		"background-color:/*rgb value, this can be used for anything*/;"\n
+		"background-image:url(\"path/to/background/image.png\");"\n
+		"letter-spacing:/*number followed by px*/;"\n
+		"padding:/*number followed by px*/;"\n
+		"margin:/*number followed by px*/;"\n
+		"font-weight:/*number from 100 to 900*/;"\n
+		"font-style:normal|italic|oblique|initial|inherit;"\n
+		"border:/*border width border style border color*/"
+	</string>
+	<string name="end">There are plenty more CSS properties out there. These are the main ones that you must know. To learn more about anything you\'ve learned here, go to the \"Helpful Tools\" page.</string>
+
+</resources>
